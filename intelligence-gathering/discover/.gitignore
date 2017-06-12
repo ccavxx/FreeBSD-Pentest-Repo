@@ -1,0 +1,4 @@
+*.gnmap
+*.nmap
+*.xml
+.idea
